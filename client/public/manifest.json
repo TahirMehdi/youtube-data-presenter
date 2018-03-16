@@ -1,0 +1,13 @@
+{
+  "short_name": "Matchmade",
+  "name": "Matchmade - Intelligent influencer marketing for games",
+  "icons": [
+    {
+      "src": "favicon.ico"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#55cdd7",
+  "background_color": "#f5f5f5"
+}

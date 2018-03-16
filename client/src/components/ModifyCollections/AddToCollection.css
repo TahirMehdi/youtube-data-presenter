@@ -1,0 +1,21 @@
+.add-to-collection{
+  position: relative;
+}
+.add-to-collection > .content{
+  white-space: nowrap;
+  position: absolute;
+  top:0;
+  right:0;
+  background: #eaeaea;
+  z-index: 2;
+  padding: 0.5em;
+}
+.add-to-collection > .content > .field{
+  padding: 0.5em;
+  display: inline-block;
+}
+
+.add-to-collection > .content > a{
+  margin: 0.5em;
+  display: inline-block;
+}

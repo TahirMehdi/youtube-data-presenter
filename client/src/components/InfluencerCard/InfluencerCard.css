@@ -1,0 +1,16 @@
+.InfluencerCard .media-content .content {
+  padding-top: 1.5em;
+}
+
+.grow-self{
+  flex-grow: 1;
+}
+
+.InfluencerCard__stat-val {
+  font-size: 2em;
+}
+
+.InfluencerCard__estimated-installs .InfluencerCard__stat-val,
+.InfluencerCard__estimated-cost .InfluencerCard__stat-val {
+  font-size: 2.5em;
+}
